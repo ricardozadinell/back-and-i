@@ -1,0 +1,41 @@
+
+.btn {
+    border: none;
+    background-color: #000000;
+    color: blanchedalmond;
+  }
+
+#footer_id{
+    font-size: 12px;
+    text-align: center;
+    color: #000000;
+    background: #FFFFFF;;
+}
+#h4{
+  color: #0066FF;
+}
+body{
+background-color: #3399FF;
+}
+#quemsomos h2, h5{
+  color: #0099FF;
+  
+  text-align: center;
+}
+#quemsomos p{
+  text-align: center;
+}
+#quemsomos img{
+  text-align: center;
+}
+#Local h2{
+  color: #0099FF;
+}
+#contato h2{
+  text-align: center;
+  color: #000000;
+}
+#bala h2{
+  text-align: center;
+  color: #874f5d;
+}
